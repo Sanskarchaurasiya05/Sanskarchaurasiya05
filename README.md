@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm AKshat Darshi</h2>
+<h2 align="center">Hi 👋, I'm Sanskar Chaurasiya</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+milliondreamsblog%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
@@ -8,20 +8,20 @@
 ### 👦 About Me
 - 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
 
-- 🔭 I’m currently working on **ClimAgro Analytics** & focusing on **DSA**
+- 🔭 I’m currently working on **EHM Consultancy Pvt. Ltd.** & focusing on **DSA**
 
-- 🌱 I’m currently developing and learning **Typescript, Next.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **Java, SpringBoot, and other full-stack tools.**
 
 - ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
 
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=milliondreamsblog&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/milliondreamsblog/github-stats">
-<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Sanskarchaurasiya05&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Sanskarchaurasiya05&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskarchaurasiya05&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/Sanskarchaurasiya05/github-stats">
+<img width="400" src="https://Sanskarchaurasiya05.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://Sanskarchaurasiya05.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
@@ -67,7 +67,7 @@
 #### GitBook
 * [GFG-POTD](https://gl01.gitbook.io/gfg-editorials) -->
 
-<a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+<a href="https://github.com/Sanskarchaurasiya05/Sanskarchaurasiya05/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
 
@@ -181,9 +181,9 @@ Python                   1 repo              ░░░░░░░░░░░�
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://Sanskarchaurasiya05.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://Sanskarchaurasiya05.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://Sanskarchaurasiya05.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -191,10 +191,10 @@ Python                   1 repo              ░░░░░░░░░░░�
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/akshat-darshi-88742b252">
+    <a href="https://www.linkedin.com/in/sanskar-chaurasiya-748a37255">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=akshatsan23@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=sanskarvns19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://ehm-pi.vercel.app/">
