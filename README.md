@@ -6,7 +6,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 I'm a B-Tech IT Final year student at UIET Kanpur
 
 - 🔭 I’m currently working on **EHM Consultancy Pvt. Ltd.** & focusing on **DSA**
 
