@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3ZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400" alt="Crazy Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M3Z6ZzR0ZHZidWpsbHhqM3Z6ZzR0ZHZidWpsbHhqM3Z6ZzR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H7pjKAnSJKXFm/giphy.gif" width="450" alt="CRAZY KEYBOARD SMASH">
 </p>
 
 <p align="center">
