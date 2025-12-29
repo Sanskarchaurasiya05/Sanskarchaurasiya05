@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://via.placeholder.com/400x250.png?text=Cartoon+Character+Coding+at+Table" alt="Cartoon Coder" width="400"> </p>
+
+<p align="center"> <strong>The world is quiet, the coffee is hot, and the code is flowing.</strong> </p>
 
 
 <h2 align="center">Hi 👋, I'm Sanskar Chaurasiya</h2>
