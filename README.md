@@ -1,4 +1,6 @@
-<img width="462" height="436" alt="image" src="https://github.com/user-attachments/assets/427fc1e6-770c-467c-b90d-7a60f9d9342f" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKVUn7iM8FMEU24/giphy.gif" width="300" alt="Animated Coder">
+</p>
 
 
 <p align="center"> <strong>The world is quiet, the coffee is hot, and the code is flowing.</strong> </p>
