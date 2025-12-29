@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKVUn7iM8FMEU24/giphy.gif" width="300" alt="Animated Coder">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKVUn7iM8FMEU24/giphy.gif" width="350" alt="CRAZY CODER">
+</p>
+
+<p align="center">
+  <strong>"I DON'T NEED SLEEP, I NEED ANSWERS!"</strong> <br>
+  🚀 Typing at 400 WPM | 🔥 CPU is Screaming | ☕ Coffee is my Blood Type
 </p>
 
 
