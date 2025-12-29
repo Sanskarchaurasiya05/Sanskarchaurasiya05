@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=""
- width="400" alt="Crazy Coder Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3Z4N3ZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400" alt="Crazy Coding Animation">
 </p>
 
 <p align="center">
