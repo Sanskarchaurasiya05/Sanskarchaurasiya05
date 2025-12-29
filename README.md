@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://via.placeholder.com/400x250.png?text=Cartoon+Character+Coding+at+Table" alt="Cartoon Coder" width="400"> </p>
+<img width="462" height="436" alt="image" src="https://github.com/user-attachments/assets/427fc1e6-770c-467c-b90d-7a60f9d9342f" />
+
 
 <p align="center"> <strong>The world is quiet, the coffee is hot, and the code is flowing.</strong> </p>
 
