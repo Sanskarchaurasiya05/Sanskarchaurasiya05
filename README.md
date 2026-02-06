@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M3Z6ZzR0ZHZidWpsbHhqM3Z6ZzR0ZHZidWpsbHhqM3Z6ZzR0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H7pjKAnSJKXFm/giphy.gif" width="450" alt="CRAZY KEYBOARD SMASH">
-</p>
+<div align="center">
+  <a href="https://github.com/Sanskarchaurasiya05">
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Sanskarchaurasiya05&theme=summer&pixelate_avatar=false" 
+         width="450" 
+         alt="Sanskar Chaurasiya Cartoon Profile" />
+  </a>
+</div>
 
 <p align="center">
   <strong>"I DON'T NEED SLEEP, I NEED ANSWERS!"</strong> <br>
