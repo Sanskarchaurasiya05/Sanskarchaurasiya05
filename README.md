@@ -20,14 +20,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanskarchaurasiya05%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
-### 👦 About Me
-- 👨‍💻 I'm a B-Tech IT Final year student at UIET Kanpur
+## 🔎 About me 🔎
 
-- 🔭 I’m currently working on **EHM Consultancy Pvt. Ltd.** & focusing on **DSA**
+<h3 align=center> 🏃‍♂️ <i> Hustler Life Forever </i> 🥤 </h3>
 
-- 🌱 I’m currently developing and learning **Java, SpringBoot, and other full-stack tools.**
+<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+🔥 <b> I am a Full Stack Developer & Systems Explorer </b> — building scalable apps & tooling. 
+🥷 <b> Low-Level Enthusiast</b> — passionate about systems and security. 
+
+🛠️ <b> I enjoy learning & building with Go, Rust, TypeScript, and Python</b>.
+
+🔍 <b> I love automation, embedded systems, and software engineering</b> — always iterating & improving. 
+
+Here is my [Resume](https://drive.google.com/file/d/1p1koJy-IRtzqqoJ8C3mwX3IxSeQ9ElvJ/view?usp=sharing)
+
 
 --- 
 
